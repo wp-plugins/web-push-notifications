@@ -1,7 +1,7 @@
 === Web Push Notifications ===
 Contributors: tidiotidio,maciekmp
 Donate link: 
-Tags: tidio notification, firefox, google, links, mac, push notifications, safari, services, social, web push, web push notifications, widget, wordpress, yosemite, social , tidio, admin, ajax, android, apple, chrome, chrome notifications, chrome os, dashboard,desktop notifications, mavericks, mobile,mobile notifications, new post, news, notifications, osx, page, plugin, posts, push
+Tags: tidio notification, google, firefox, links, mac, push notifications, safari, services, social, web push, web push notifications, widget, wordpress, yosemite, social , tidio, admin, ajax, android, apple, chrome, chrome notifications, chrome os, dashboard,desktop notifications, mavericks, mobile,mobile notifications, new post, news, notifications, osx, page, plugin, posts, push
 Requires at least: 3.3
 Tested up to: 4.1.1
 Stable tag: trunk
