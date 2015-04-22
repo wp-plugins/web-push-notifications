@@ -28,11 +28,12 @@ Push notifications for Safari/Chrome is a revolutionary technology that allows y
 * Statistics of views/ notifications opened
 * Fully customizable notifications
 
+[youtube https://www.youtube.com/watch?v=FYu7MUYIVYc]
+
 = Installation? =
 No registering or account creation needed! You only need to install the plugin and it’s done! 
 
 Plugin is delivered and based on tidionotification.com technology
-
 == Installation ==
 
 1. Go to WordPress Control Panel
