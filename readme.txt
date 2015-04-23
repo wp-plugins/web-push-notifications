@@ -28,7 +28,7 @@ Push notifications for Safari/Chrome is a revolutionary technology that allows y
 * Statistics of views/ notifications opened
 * Fully customizable notifications
 
-[youtube https://www.youtube.com/watch?v=FYu7MUYIVYc]
+[youtube https://www.youtube.com/watch?v=pTvBlFKAS7Q]
 
 = Installation? =
 No registering or account creation needed! You only need to install the plugin and it’s done! 
