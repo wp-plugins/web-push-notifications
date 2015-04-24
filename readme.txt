@@ -3,7 +3,7 @@ Contributors: tidiotidio,maciekmp
 Donate link: 
 Tags: tidio notification, google, firefox, links, mac, push notifications, safari, services, social, web push, web push notifications, widget, wordpress, yosemite, social , tidio, admin, ajax, android, apple, chrome, chrome notifications, chrome os, dashboard,desktop notifications, mavericks, mobile,mobile notifications, new post, news, notifications, osx, page, plugin, posts, push
 Requires at least: 3.3
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
