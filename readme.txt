@@ -12,7 +12,7 @@ Grow the traffic on your website by sending push notifications, even when your u
 
 == Description ==
 
-= Start sending notifications to your users and grow the traffic on your website (40x more effective then email)  =
+= START SENDING NOTIFICATIONS TO YOUR USERS AND GROW THE TRAFFIC ON YOUR WEBSITE (40X MORE EFFECTIVE THEN EMAIL)  =
 
 Push notifications for Safari/Chrome is a revolutionary technology that allows you to send push notifications to your users even when they closed the browser. 
 
