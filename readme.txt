@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Grow the traffic on your website by sending push notifications, even when your users will close the browser window.
+Increase the traffic on your website by sending push notifications, even when your users have closed their browser window.
 
 == Description ==
 
